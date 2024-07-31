@@ -1,6 +1,6 @@
 # Javascript Project
 
-Selamat datang di repo **Javascript Project**! Repo ini berisi berbagai proyek JavaScript yang dirancang untuk membantu Anda meningkatkan keterampilan pemrograman dan menerapkan konsep-konsep penting dalam praktik.
+Selamat datang di repo **Javascript Project**! Repo ini berisi berbagai proyek JavaScript untuk keterampilan pemrograman dan menerapkan konsep-konsep penting dalam project.
 
 ## Proyek Saat Ini
 
