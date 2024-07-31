@@ -1,0 +1,7 @@
+[build]
+  publish = "01-Todolist"
+  # Jika Anda memerlukan perintah build khusus (misalnya, jika ada build step), tambahkan di sini
+  # command = "build-command-here"
+
+[context.production]
+  # Jika ada pengaturan khusus untuk konteks produksi, tambahkan di sini
